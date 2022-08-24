@@ -1,0 +1,22 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  }
+   
+   
+  h1 {
+    color: slateblue;
+    font-size: 88px;
+    display: block;
+    font-weight: bold;
+  }
+   
+   
+  p, 
+  li {
+    font-size: 17px;
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
